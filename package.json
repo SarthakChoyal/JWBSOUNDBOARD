@@ -1,0 +1,23 @@
+{
+  "name": "joshua-binks-soundboard",
+  "version": "1.0.0",
+  "description": "Soundboard created by Sarthak Choyal, with sound effects produced by the Joshua Binks",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "Meme",
+    "Sound",
+    "Board"
+  ],
+  "author": "Sarthak Choyal",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.1.0",
+    "electron-builder": "^24.6.3"
+  },
+  "dependencies": {
+    "electron-packager": "^17.1.2"
+  }
+}
